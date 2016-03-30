@@ -1,0 +1,12 @@
+.body{
+    background-color: #ebebeb;
+}
+
+.project_container{
+    width: 1000px;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #0f0f0f;
+    color:white;
+    height:100px;
+}

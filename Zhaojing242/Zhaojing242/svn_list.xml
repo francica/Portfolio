@@ -1,0 +1,8588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/jzhao18">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/Assignment0</name>
+<commit
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Assignment0/Network.java</name>
+<size>13567</size>
+<commit
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Assignment0/wearableserver.c</name>
+<size>9687</size>
+<commit
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/grocery</name>
+<commit
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/grocery/Untitled 2.txt</name>
+<size>311</size>
+<commit
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment0</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment0/Network.java</name>
+<size>13567</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment0/queue.c</name>
+<size>1815</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment0/wearableserver.c</name>
+<size>9687</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/.idea</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/copyright</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.idea/workspace.xml</name>
+<size>51713</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/.settings</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/bin</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/Bishop.class</name>
+<size>1921</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/King.class</name>
+<size>2130</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/Knight.class</name>
+<size>2226</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/Pawn.class</name>
+<size>1687</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/Queen.class</name>
+<size>2399</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/Piece/Rook.class</name>
+<size>1691</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/bin/game</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/bin/main</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/main/main.class</name>
+<size>3603</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/bin/object</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/object/Board.class</name>
+<size>2164</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out/production</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/main</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/main/Main.class</name>
+<size>6405</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/object</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/test</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/src</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/src/game</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/src/main</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/main/Main.java</name>
+<size>14878</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/src/object</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Assignment1.0/Chess/src/test</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/grocery</name>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/grocery/Untitled 2.txt</name>
+<size>311</size>
+<commit
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment0</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment0/Network.java</name>
+<size>13567</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment0/queue.c</name>
+<size>1815</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment0/wearableserver.c</name>
+<size>9687</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/.idea</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/copyright</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.idea/workspace.xml</name>
+<size>51713</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/.settings</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/bin</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/Bishop.class</name>
+<size>1921</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/King.class</name>
+<size>2130</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/Knight.class</name>
+<size>2226</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/Pawn.class</name>
+<size>1687</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/Queen.class</name>
+<size>2399</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/Piece/Rook.class</name>
+<size>1691</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/bin/game</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/bin/main</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/main/main.class</name>
+<size>3603</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/bin/object</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/object/Board.class</name>
+<size>2164</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out/production</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/main</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/main/Main.class</name>
+<size>6405</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/object</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/test</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/src</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/src/game</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/src/main</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/main/Main.java</name>
+<size>14878</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/src/object</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.0/Chess/src/test</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/.idea</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/copyright</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.idea/workspace.xml</name>
+<size>65114</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/.settings</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/Manual_Test_Plan.pdf</name>
+<size>224565</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIBoard$1.class</name>
+<size>755</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIBoard$2.class</name>
+<size>3933</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIBoard.class</name>
+<size>4757</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIexample.class</name>
+<size>2953</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame$1.class</name>
+<size>796</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame.class</name>
+<size>1237</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/GUI/mybutton.class</name>
+<size>604</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/Bishop.class</name>
+<size>2135</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/King.class</name>
+<size>2377</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/Knight.class</name>
+<size>2489</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/Pawn.class</name>
+<size>1882</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/Queen.class</name>
+<size>2670</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/Rook.class</name>
+<size>1885</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/customPiece.class</name>
+<size>3733</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/Piece/customPiece2.class</name>
+<size>2326</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin/game</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin/main</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/main/MainGame.class</name>
+<size>5751</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin/object</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/object/Board.class</name>
+<size>3081</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/bin/test</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/bin/test/BoardTest.class</name>
+<size>1441</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out/production</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/GUI.class</name>
+<size>2935</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/main</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/main/Main.class</name>
+<size>6417</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/object</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/test</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/resources</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Bishop-64-b.png</name>
+<size>1107</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Bishop-64.png</name>
+<size>1483</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/King-64-b.png</name>
+<size>1023</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/King-64.png</name>
+<size>1408</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Knight-64-b.png</name>
+<size>1068</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Knight-64.png</name>
+<size>1491</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Pawn-64-b.png</name>
+<size>910</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Pawn-64.png</name>
+<size>1237</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Queen-64-b.png</name>
+<size>1238</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Queen-64.png</name>
+<size>1748</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Rook-64-b.png</name>
+<size>995</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/resources/Rook-64.png</name>
+<size>1466</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src/GUI</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/GUI/GUIBoard.java</name>
+<size>14987</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/GUI/GUIexample.java</name>
+<size>2001</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/GUI/HelloWorldFrame.java</name>
+<size>1626</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/GUI/mybutton.java</name>
+<size>423</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/customPiece.java</name>
+<size>7808</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/Piece/customPiece2.java</name>
+<size>3557</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src/game</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src/main</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/main/MainGame.java</name>
+<size>22899</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src/object</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Assignment1.1/Chess/src/test</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/grocery</name>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/grocery/Untitled 2.txt</name>
+<size>311</size>
+<commit
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment0</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment0/Network.java</name>
+<size>13567</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment0/queue.c</name>
+<size>1815</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment0/wearableserver.c</name>
+<size>9687</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/.idea</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/copyright</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.idea/workspace.xml</name>
+<size>51713</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/.settings</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/bin</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/Bishop.class</name>
+<size>1921</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/King.class</name>
+<size>2130</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/Knight.class</name>
+<size>2226</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/Pawn.class</name>
+<size>1687</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/Queen.class</name>
+<size>2399</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/Piece/Rook.class</name>
+<size>1691</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/bin/game</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/bin/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/main/main.class</name>
+<size>3603</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/bin/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/object/Board.class</name>
+<size>2164</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out/production</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/main/Main.class</name>
+<size>6405</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/src</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/src/game</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/src/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/main/Main.java</name>
+<size>14878</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/src/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.0/Chess/src/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/.idea</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/copyright</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.idea/workspace.xml</name>
+<size>65114</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/.settings</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/Manual_Test_Plan.pdf</name>
+<size>224565</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIBoard$1.class</name>
+<size>755</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIBoard$2.class</name>
+<size>3933</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIBoard.class</name>
+<size>4757</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIexample.class</name>
+<size>2953</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/HelloWorldFrame$1.class</name>
+<size>796</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/HelloWorldFrame.class</name>
+<size>1237</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/GUI/mybutton.class</name>
+<size>604</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/Bishop.class</name>
+<size>2135</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/King.class</name>
+<size>2377</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/Knight.class</name>
+<size>2489</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/Pawn.class</name>
+<size>1882</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/Queen.class</name>
+<size>2670</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/Rook.class</name>
+<size>1885</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/customPiece.class</name>
+<size>3733</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/Piece/customPiece2.class</name>
+<size>2326</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin/game</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/main/MainGame.class</name>
+<size>5751</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/object/Board.class</name>
+<size>3081</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/bin/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/bin/test/BoardTest.class</name>
+<size>1441</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out/production</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/GUI.class</name>
+<size>2935</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/main/Main.class</name>
+<size>6417</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/resources</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Bishop-64-b.png</name>
+<size>1107</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Bishop-64.png</name>
+<size>1483</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/King-64-b.png</name>
+<size>1023</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/King-64.png</name>
+<size>1408</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Knight-64-b.png</name>
+<size>1068</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Knight-64.png</name>
+<size>1491</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Pawn-64-b.png</name>
+<size>910</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Pawn-64.png</name>
+<size>1237</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Queen-64-b.png</name>
+<size>1238</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Queen-64.png</name>
+<size>1748</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Rook-64-b.png</name>
+<size>995</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/resources/Rook-64.png</name>
+<size>1466</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src/GUI</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/GUI/GUIBoard.java</name>
+<size>14987</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/GUI/GUIexample.java</name>
+<size>2001</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/GUI/HelloWorldFrame.java</name>
+<size>1626</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/GUI/mybutton.java</name>
+<size>423</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/customPiece.java</name>
+<size>7808</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/Piece/customPiece2.java</name>
+<size>3557</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src/game</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/main/MainGame.java</name>
+<size>22899</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/Chess/src/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/.idea</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/copyright</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.idea/workspace.xml</name>
+<size>65114</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/.settings</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/Manual Test Plan 1.2.docx</name>
+<size>360633</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$1.class</name>
+<size>755</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$2.class</name>
+<size>932</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$3.class</name>
+<size>1178</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$4.class</name>
+<size>1108</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$5.class</name>
+<size>826</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$6.class</name>
+<size>909</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$7.class</name>
+<size>4567</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard.class</name>
+<size>7582</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIexample.class</name>
+<size>2953</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/HelloWorldFrame$1.class</name>
+<size>796</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/HelloWorldFrame.class</name>
+<size>1237</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/GUI/mybutton.class</name>
+<size>604</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/Bishop.class</name>
+<size>2169</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/King.class</name>
+<size>2377</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/Knight.class</name>
+<size>2489</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/Pawn.class</name>
+<size>1882</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/Queen.class</name>
+<size>2869</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/Rook.class</name>
+<size>2033</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/customPiece.class</name>
+<size>3733</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/Piece/customPiece2.class</name>
+<size>2326</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin/game</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/main/MainGame.class</name>
+<size>7355</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/object/Board.class</name>
+<size>3081</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/bin/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/bin/test/BoardTest.class</name>
+<size>1441</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out/production</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/GUI.class</name>
+<size>2935</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/main/Main.class</name>
+<size>6417</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/resources</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Bishop-64-b.png</name>
+<size>1107</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Bishop-64.png</name>
+<size>1483</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/King-64-b.png</name>
+<size>1023</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/King-64.png</name>
+<size>1408</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Knight-64-b.png</name>
+<size>1068</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Knight-64.png</name>
+<size>1491</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Pawn-64-b.png</name>
+<size>910</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Pawn-64.png</name>
+<size>1237</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Queen-64-b.png</name>
+<size>1238</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Queen-64.png</name>
+<size>1748</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Rook-64-b.png</name>
+<size>995</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/resources/Rook-64.png</name>
+<size>1466</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src/GUI</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/GUI/GUIBoard.java</name>
+<size>23103</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/GUI/GUIexample.java</name>
+<size>2001</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/GUI/HelloWorldFrame.java</name>
+<size>1626</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/GUI/mybutton.java</name>
+<size>423</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/Bishop.java</name>
+<size>3172</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/Queen.java</name>
+<size>4863</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/Rook.java</name>
+<size>2687</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/customPiece.java</name>
+<size>7808</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/Piece/customPiece2.java</name>
+<size>3557</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src/game</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src/main</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/main/MainGame.java</name>
+<size>25499</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src/object</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.2/Chess/src/test</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.2/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/grocery</name>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/grocery/Untitled 2.txt</name>
+<size>311</size>
+<commit
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir</name>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/.project</name>
+<size>359</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/.pydevproject</name>
+<size>427</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir/.settings</name>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/.settings/org.eclipse.core.resources.prefs</name>
+<size>63</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir/src</name>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir/src/city</name>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/Route2.py</name>
+<size>813</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/main.py</name>
+<size>6258</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/metro.py</name>
+<size>1047</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/route.py</name>
+<size>677</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/test-graph_parsing.py</name>
+<size>1261</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/city/test-graph_query.py</name>
+<size>478</size>
+<commit
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment0</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment0/Network.java</name>
+<size>13567</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment0/queue.c</name>
+<size>1815</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment0/wearableserver.c</name>
+<size>9687</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/.idea</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/copyright</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.idea/workspace.xml</name>
+<size>51713</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/.settings</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/bin</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/Bishop.class</name>
+<size>1921</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/King.class</name>
+<size>2130</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/Knight.class</name>
+<size>2226</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/Pawn.class</name>
+<size>1687</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/Queen.class</name>
+<size>2399</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/Piece/Rook.class</name>
+<size>1691</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/bin/game</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/bin/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/main/main.class</name>
+<size>3603</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/bin/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/object/Board.class</name>
+<size>2164</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out/production</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/main/Main.class</name>
+<size>6405</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/src</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/src/game</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/src/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/main/Main.java</name>
+<size>14878</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/src/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.0/Chess/src/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.0/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/.idea</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/copyright</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.idea/workspace.xml</name>
+<size>65114</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/.settings</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/Manual_Test_Plan.pdf</name>
+<size>224565</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIBoard$1.class</name>
+<size>755</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIBoard$2.class</name>
+<size>3933</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIBoard.class</name>
+<size>4757</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIexample.class</name>
+<size>2953</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame$1.class</name>
+<size>796</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame.class</name>
+<size>1237</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/GUI/mybutton.class</name>
+<size>604</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/Bishop.class</name>
+<size>2135</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/King.class</name>
+<size>2377</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/Knight.class</name>
+<size>2489</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/Pawn.class</name>
+<size>1882</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/Queen.class</name>
+<size>2670</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/Rook.class</name>
+<size>1885</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/customPiece.class</name>
+<size>3733</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/Piece/customPiece2.class</name>
+<size>2326</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin/game</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/main/MainGame.class</name>
+<size>5751</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/object/Board.class</name>
+<size>3081</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/bin/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/bin/test/BoardTest.class</name>
+<size>1441</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out/production</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/GUI.class</name>
+<size>2935</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/main/Main.class</name>
+<size>6417</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/resources</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Bishop-64-b.png</name>
+<size>1107</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Bishop-64.png</name>
+<size>1483</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/King-64-b.png</name>
+<size>1023</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/King-64.png</name>
+<size>1408</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Knight-64-b.png</name>
+<size>1068</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Knight-64.png</name>
+<size>1491</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Pawn-64-b.png</name>
+<size>910</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Pawn-64.png</name>
+<size>1237</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Queen-64-b.png</name>
+<size>1238</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Queen-64.png</name>
+<size>1748</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Rook-64-b.png</name>
+<size>995</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/resources/Rook-64.png</name>
+<size>1466</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src/GUI</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/GUI/GUIBoard.java</name>
+<size>14987</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/GUI/GUIexample.java</name>
+<size>2001</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/GUI/HelloWorldFrame.java</name>
+<size>1626</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/GUI/mybutton.java</name>
+<size>423</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/Bishop.java</name>
+<size>2857</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/Queen.java</name>
+<size>4253</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/Rook.java</name>
+<size>2277</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/customPiece.java</name>
+<size>7808</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/Piece/customPiece2.java</name>
+<size>3557</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src/game</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/main/MainGame.java</name>
+<size>22899</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.1/Chess/src/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.1/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.classpath</name>
+<size>295</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/.idea</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/copyright</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/misc.xml</name>
+<size>2738</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.idea/workspace.xml</name>
+<size>65114</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/.settings</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/Chess.iml</name>
+<size>1642</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/Manual Test Plan 1.2.docx</name>
+<size>360633</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$1.class</name>
+<size>755</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$2.class</name>
+<size>932</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$3.class</name>
+<size>1178</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$4.class</name>
+<size>1108</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$5.class</name>
+<size>826</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$6.class</name>
+<size>909</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$7.class</name>
+<size>4567</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard.class</name>
+<size>7582</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIexample.class</name>
+<size>2953</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/HelloWorldFrame$1.class</name>
+<size>796</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/HelloWorldFrame.class</name>
+<size>1237</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/GUI/mybutton.class</name>
+<size>604</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/Bishop.class</name>
+<size>2169</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/King.class</name>
+<size>2377</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/Knight.class</name>
+<size>2489</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/Pawn.class</name>
+<size>1882</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/Queen.class</name>
+<size>2869</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/Rook.class</name>
+<size>2033</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/customPiece.class</name>
+<size>3733</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/Piece/customPiece2.class</name>
+<size>2326</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin/game</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/main/MainGame.class</name>
+<size>7355</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/object/Board.class</name>
+<size>3081</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/bin/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/bin/test/BoardTest.class</name>
+<size>1441</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out/production</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/GUI.class</name>
+<size>2935</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Bishop.class</name>
+<size>2134</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/King.class</name>
+<size>2350</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Knight.class</name>
+<size>2462</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Pawn.class</name>
+<size>1877</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Piece.class</name>
+<size>426</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Queen.class</name>
+<size>2658</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Rook.class</name>
+<size>1867</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/main/Main.class</name>
+<size>6417</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/object/Board.class</name>
+<size>3019</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/object/Position.class</name>
+<size>516</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/out/production/Chess/test/BoardTest.class</name>
+<size>786</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/resources</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Bishop-64-b.png</name>
+<size>1107</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Bishop-64.png</name>
+<size>1483</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/King-64-b.png</name>
+<size>1023</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/King-64.png</name>
+<size>1408</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Knight-64-b.png</name>
+<size>1068</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Knight-64.png</name>
+<size>1491</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Pawn-64-b.png</name>
+<size>910</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Pawn-64.png</name>
+<size>1237</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Queen-64-b.png</name>
+<size>1238</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Queen-64.png</name>
+<size>1748</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Rook-64-b.png</name>
+<size>995</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/resources/Rook-64.png</name>
+<size>1466</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src/GUI</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/GUI/GUIBoard.java</name>
+<size>23103</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/GUI/GUIexample.java</name>
+<size>2001</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/GUI/HelloWorldFrame.java</name>
+<size>1626</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/GUI/mybutton.java</name>
+<size>423</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/Bishop.java</name>
+<size>3172</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/King.java</name>
+<size>3999</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/Knight.java</name>
+<size>4129</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/Pawn.java</name>
+<size>2555</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/Piece.java</name>
+<size>459</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/Queen.java</name>
+<size>4863</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/Rook.java</name>
+<size>2687</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/customPiece.java</name>
+<size>7808</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/Piece/customPiece2.java</name>
+<size>3557</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src/game</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src/main</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/main/MainGame.java</name>
+<size>25499</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src/object</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/object/Board.java</name>
+<size>4874</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/object/Position.java</name>
+<size>329</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment1.2/Chess/src/test</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment1.2/Chess/src/test/BoardTest.java</name>
+<size>568</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.0</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.0/CSAir</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/.project</name>
+<size>359</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/.pydevproject</name>
+<size>427</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.0/CSAir/.settings</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/.settings/org.eclipse.core.resources.prefs</name>
+<size>63</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.0/CSAir/src</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/Route2.py</name>
+<size>813</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/__init__.py</name>
+<size>0</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/main.py</name>
+<size>6258</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/metro.py</name>
+<size>1047</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/route.py</name>
+<size>677</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/test-graph_parsing.py</name>
+<size>1261</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.0/CSAir/src/city/test-graph_query.py</name>
+<size>478</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/CSAir</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/.project</name>
+<size>359</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/.pydevproject</name>
+<size>427</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/CSAir/.settings</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/.settings/org.eclipse.core.resources.prefs</name>
+<size>63</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/CSAir/src</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/__init__.py</name>
+<size>0</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/combine.json</name>
+<size>28944</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/main.py</name>
+<size>21286</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/metro.py</name>
+<size>1289</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/metro2.py</name>
+<size>813</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/new_combine.json</name>
+<size>28111</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/route.py</name>
+<size>677</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/test-graph_parsing.py</name>
+<size>2254</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/test-graph_query.py</name>
+<size>492</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/CSAir/src/city/try.py</name>
+<size>179</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/grocery</name>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/grocery/Untitled 2.txt</name>
+<size>311</size>
+<commit
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>grocery</name>
+<commit
+   revision="915">
+<author>jzhao18</author>
+<date>2016-01-27T19:29:47.078290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/Untitled 2.txt</name>
+<size>311</size>
+<commit
+   revision="915">
+<author>jzhao18</author>
+<date>2016-01-27T19:29:47.078290Z</date>
+</commit>
+</entry>
+</list>
+</lists>

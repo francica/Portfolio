@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<log>
+    <logentry
+        revision="1668">
+        <author>netid</author>
+        <date>2011-09-07T03:03:58.367692Z</date>
+        <paths>
+            <path kind="file" action="M">
+                /netid/Assignment1.1/.classpath
+            </path>
+        </paths>
+        <msg>typo fix in square.java equals() method</msg>
+    </logentry>
+    <logentry
+        revision="1558">
+        <author>netid</author>
+        <date>2011-09-06T17:00:52.998920Z</date>
+        <paths>
+            <path
+                kind="file"
+                action="A">/netid/Assignment1.1/subFolder1/sub1File.abc</path>
+            <path
+                kind="file"
+                action="A">/netid/Assignment1.1/.classpath</path>
+ 	</paths>
+    </logentry>
+</log>

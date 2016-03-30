@@ -1,0 +1,2722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="8202">
+<author>jzhao18</author>
+<date>2016-03-05T00:16:59.374519Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Knight-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/GUI</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/King-64.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/Piece.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/game</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/route.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/test-graph_parsing.py</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Rook-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/try.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/.settings/org.eclipse.core.resources.prefs</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/main.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Pawn-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/GUI/mybutton.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/test/BoardTest.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Bishop-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$6.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Bishop-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/GUI/GUIBoard.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/GUI.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment2.0/CSAir</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/.settings/org.eclipse.core.resources.prefs</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/customPiece2.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Knight-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/metro.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/grocery</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/Knight.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/test-graph_query.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment0</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIexample.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/out</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Pawn-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/Queen.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/HelloWorldFrame$1.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/main/MainGame.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/.project</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$1.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Pawn-64.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/King-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/GUI/GUIexample.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIexample.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment0/Network.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/main</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/King-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/.project</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIBoard$1.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/Knight.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/King.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Rook-64.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/game</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/main</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/test/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/main/MainGame.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/main/Main.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$4.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/test-graph_query.py</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/GUI/GUIBoard.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/GUI/GUIexample.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/King-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/object</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/game</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Bishop-64.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/map_data.json</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/Knight.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/object/Position.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/__init__.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/Piece.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/HelloWorldFrame.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/game</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/object/Board.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/main/MainGame.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/.settings</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/Queen.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.settings</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/.settings</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/object/Position.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/src</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$7.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Pawn-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment2.1/CSAir</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Bishop-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Rook-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/object/Position.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/route.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Queen-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/.project</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment0/wearableserver.c</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/Route2.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/grocery/Untitled 2.txt</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/customPiece.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Queen-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/GUI/HelloWorldFrame.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$2.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/.project</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/customPiece2.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/main.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/metro.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/main/MainGame.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/customPiece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Rook-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/main/Main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIBoard$2.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/.project</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/King.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Queen-64.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/object/Board.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/Manual Test Plan 1.2.docx</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/test</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/object</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/combine.json</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/customPiece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/__init__.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/mybutton.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/test-graph_parsing.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$5.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Knight-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/resources/Knight-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/customPiece2.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/Pawn.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/test</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/map_data.json</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/doxygen</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/object/Position.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/Bishop.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/test</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/GUI/HelloWorldFrame.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/main/main.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/object/Position.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/object/Position.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/object/Position.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/GUI.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/metro2.py</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/.classpath</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment0/queue.c</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame$1.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/GUI/mybutton.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/object/Position.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/Piece/customPiece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/src</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/GUIBoard.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/.classpath</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/resources/Queen-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/src/Piece/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/.settings</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/.settings</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/GUI</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/doxygen</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/GUI/mybutton.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/out/production/Chess/object/Position.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/main</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/customPiece2.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/object/Board.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/Piece/Rook.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/src/city/map_data.json</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.0/Chess/bin/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.0/Chess/out/production/Chess/main/Main.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.0/Chess/src/main/Main.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.2/Chess/.idea</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.2/Chess/bin/GUI/GUIBoard$3.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0/CSAir/.pydevproject</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/bin/Piece/King.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment2.1/CSAir/src/city/new_combine.json</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.1/Assignment1.1/Chess/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment2.1/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment2.1</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.1/Assignment1.1/Chess/out/production</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.1/Chess/Manual_Test_Plan.pdf</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.1/Assignment1.2/Chess/src/Piece/Pawn.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7400">
+<author>jzhao18</author>
+<date>2016-02-26T23:02:24.568744Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.0/CSAir/src/city</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.0/CSAir</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.0/CSAir/src/city/Route2.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.0/CSAir/.settings/org.eclipse.core.resources.prefs</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/src/city/main.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/src/city/metro.py</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/src/city/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.0/CSAir/.settings</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/map_data.json</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/.project</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/src/city/route.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.0/CSAir/src/city/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment2.0/CSAir/src</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment2.0/CSAir/src/city/test-graph_parsing.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.0/CSAir/src/city/test-graph_query.py</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment2.0/CSAir/.pydevproject</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6453">
+<author>jzhao18</author>
+<date>2016-02-20T00:03:15.068070Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Queen-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Knight-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/King-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/main/Main.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Queen-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/mybutton.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$2.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.project</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/King.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment0</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Rook-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Pawn-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/Queen.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/test/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/main/MainGame.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIBoard$2.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.project</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/GUI/GUIBoard.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/src</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Bishop-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Bishop-64-b.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/GUI/GUIexample.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/King-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/customPiece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/main/Main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/Knight.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$5.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIBoard.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/Manual_Test_Plan.pdf</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment0/queue.c</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Queen-64.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/object/Board.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/HelloWorldFrame$1.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/test/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/customPiece.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/main/MainGame.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/Queen.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/mybutton.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Pawn-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/King-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/GUI/GUIexample.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Bishop-64.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/GUI/HelloWorldFrame.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/object/Position.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/.classpath</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Bishop-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/Queen.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Rook-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/object/Position.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/main/main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$3.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/HelloWorldFrame.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/object/Board.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment0/Network.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/out</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/Queen.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.settings</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/.settings</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/.settings</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/game</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/object/Position.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/GUI/HelloWorldFrame.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/src</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/King.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/.classpath</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Rook-64-b.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/main/Main.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$6.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/Rook.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/HelloWorldFrame$1.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/GUI/mybutton.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/Piece.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/GUI.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIexample.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/customPiece2.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/grocery/Untitled 2.txt</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/doxygen</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$1.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/HelloWorldFrame.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIexample.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/object/Board.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/Manual Test Plan 1.2.docx</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/object</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/GUI/GUIBoard$1.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/resources/Knight-64-b.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/copyright</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Knight-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/customPiece2.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/game</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/main/MainGame.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/Queen.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/GUI</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/doxygen</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/grocery</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/King-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/test</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/test</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/Piece/King.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$4.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/object/Position.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/object/Position.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/object/Position.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/object</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Rook-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/customPiece2.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/GUI/mybutton.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/main/Main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/bin/Piece/customPiece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/object/Position.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/GUI/GUIBoard.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/King.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/object</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/customPiece2.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Knight-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/GUI</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/Piece/Piece.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/object/Position.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/Piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/out/production/Chess/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard$7.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/GUI.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/object</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.1/Chess/src/main/MainGame.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.2/Chess/out/production/Chess/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Pawn-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/src/test/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.0/Chess/src/object/Position.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.2/Assignment1.1/Chess/.idea</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Queen-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/customPiece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.0/Chess/bin/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/.project</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment0/wearableserver.c</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.2/Assignment1.1/Chess/out/production/Chess/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.2/Assignment1.2/Chess/resources/Pawn-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.2/Assignment1.2/Chess/bin/GUI/GUIBoard.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5336">
+<author>jzhao18</author>
+<date>2016-02-13T00:13:36.524267Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/Pawn.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/Queen.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/main/MainGame.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/main/main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/King.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/Piece.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/game</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment0/queue.c</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/object/Board.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/customPiece2.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/object/Board.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame$1.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/test/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/GUI/mybutton.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/main/Main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/main/MainGame.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/object/Position.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/game</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Bishop-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/King.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/King-64-b.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/GUI/GUIexample.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/Manual_Test_Plan.pdf</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/doxygen</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/object/Position.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/object/Position.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment0/wearableserver.c</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/HelloWorldFrame.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/GUI.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/.classpath</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/object/Board.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/Rook.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/object/Position.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Queen-64-b.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/GUI/HelloWorldFrame.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/.project</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Knight-64-b.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIBoard.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.classpath</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Queen-64.png</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Bishop-64.png</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/GUI</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/King-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/main/Main.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/mybutton.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIBoard$2.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/.project</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/object/Position.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/object/Position.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Rook-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/Queen.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/Rook.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/main/Main.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/Piece.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/GUI/GUIBoard.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/customPiece2.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIexample.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment0/Network.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/test</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Knight-64.png</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/object/Board.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Rook-64-b.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/grocery</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/GUI/GUIBoard$1.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/King.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/bin/Piece/King.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment0</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/object/Board.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/object/Board.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/grocery/Untitled 2.txt</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/out</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/out/production/Chess/object</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Pawn-64-b.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/main</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/Piece/customPiece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.0/Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/Queen.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/.settings</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.1/Assignment1.0/Chess/.idea</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/Piece/customPiece.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/test</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.1/Chess/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.1/Assignment1.1/Chess/resources/Pawn-64.png</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/bin/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.1/Assignment1.1/Chess/src/game</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.1/Assignment1.0/Chess/src/Piece/Pawn.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3915">
+<author>jzhao18</author>
+<date>2016-02-05T23:31:40.478456Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/object</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/main/Main.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/King.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/main/main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/object</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment0/queue.c</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/object/Board.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/object/Board.java</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/out</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/object</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/test/BoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/Queen.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/object/Position.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.project</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/main</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/grocery/Untitled 2.txt</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/Pawn.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/Queen.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/grocery</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/main/Main.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/Bishop.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/test</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/object/Position.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/Piece.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/main</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment0</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Pawn.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Rook.class</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment0/Network.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/Rook.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/game</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/object/Position.java</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment0/wearableserver.c</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece/King.class</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/Piece</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/Piece/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/test</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/Piece/Queen.class</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/bin/object/Board.class</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment1.0/Assignment1.0/Chess/src/main</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment1.0/Assignment1.0/Chess/out/production/Chess/test/BoardTest.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2632">
+<author>jzhao18</author>
+<date>2016-01-29T21:22:36.570714Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jzhao18/Assignment0/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment0/grocery</path>
+<path
+   action="A"
+   kind="dir">/jzhao18/Assignment0</path>
+<path
+   kind="file"
+   action="A">/jzhao18/Assignment0/Assignment0/Network.java</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment0/grocery/Untitled 2.txt</path>
+<path
+   action="A"
+   kind="file">/jzhao18/Assignment0/Assignment0/wearableserver.c</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="915">
+<author>jzhao18</author>
+<date>2016-01-27T19:29:47.078290Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jzhao18/grocery</path>
+<path
+   kind="file"
+   action="A">/jzhao18/grocery/Untitled 2.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="89">
+<author>root</author>
+<date>2016-01-21T17:21:39.316297Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jzhao18</path>
+</paths>
+<msg>created directory jzhao18</msg>
+</logentry>
+</log>

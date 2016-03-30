@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <link href="/assign3/static/css/catsee.css" rel="stylesheet">
+</head>
+
+<body>
+<a href="/assign3/content">go back</a>
+<form  action="/assign3/project/{{project_id}}" method="post">
+	{% csrf_token %}
+	<input type="text" name="username"  />
+            	<input type="text" name="content" />
+            	<input type="submit" value="Comment" />
+</form>
+{% for comment in comments %}
+<div class="comment_container">
+	<p>-by: {{comment.comment_username}}<p>
+	<p>-{{comment.comment_content}}</p>
+</div>
+{% endfor %}
+{% for file in files %}
+    <div class="file_container" id="{{ file.id }}">
+        <p>File Path: {{ file.file_path }}</p>
+        <p>File Type: {{ file.file_type }}</p>
+        <p>File Size: {{ file.file_size }}</p>
+        {% for version in file.version_set.all %}
+        	<div class="version_container" id="{{ version.id }}">
+	        <p>Version Revision: {{ version.version_revision }}</p>
+	        <p>Version Author: {{ version.version_author }}</p>
+	        <p>Version Msg: {{ version.version_msg }}</p>
+	        <p>Version Date: {{ version.version_date }}</p>
+	</div>
+	{% endfor %}
+    </div>
+{% endfor %}
+</body>
+</html>

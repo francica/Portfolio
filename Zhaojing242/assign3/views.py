@@ -5,6 +5,7 @@ from django.shortcuts import get_object_or_404, render
 from utils import *
 import os
 import sys
+import json
 from django.conf import settings as se
 from .models import *
 
@@ -40,6 +41,7 @@ def secret(request):
 
 
 def project(request, project_id):
+	'''
 	if request.method=="POST":
 		username = request.POST['username']
 		content = request.POST['content']
@@ -47,8 +49,8 @@ def project(request, project_id):
 		c.save()
 		comments = Comment.objects.filter(project_id=project_id)
 		files = File.objects.filter(project_id=project_id).prefetch_related('version_set')
-		return render(request, 'assign3/project2.html', {"files": files, "project_id":project_id, "comments":comments})
-
+		#return render(request, 'assign3/project2.html', {"files": files, "project_id":project_id, "comments":comments})
+		'''
 
 	comments = Comment.objects.filter(project_id=project_id)
 	files = File.objects.filter(project_id=project_id).prefetch_related('version_set')
@@ -57,3 +59,20 @@ def project(request, project_id):
 def content(request):
 	projects = Project.objects.all()
 	return render(request, 'assign3/index.html', {"projects": projects})
+
+def forAjax(request):
+	if request.method=="POST":
+		username = request.POST['user']
+		content = request.POST['comment']
+		project_id = request.POST['project_id']
+		c = Comment.objects.create(comment_username=username, comment_content=content, project=Project.objects.get(pk=project_id))
+		c.save()
+		comments = Comment.objects.filter(project_id=project_id)
+		files = File.objects.filter(project_id=project_id).prefetch_related('version_set')
+        return HttpResponse(json.dumps([{"user":username, "content":content}]))
+'''
+def forFile(request):
+	if request.method=="POST":
+		filePath = request.POST['file_path']
+	return render(request, 'https://subversion.ews.illinois.edu/svn/sp16-cs242/jzhao18/'+filePath)
+'''

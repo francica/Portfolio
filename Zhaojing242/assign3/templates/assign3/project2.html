@@ -2,10 +2,13 @@
 
 <!DOCTYPE html>
 <html lang="en">
+<!-- AJAX script! -->
 
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="/assign3/static/js/jquery.js"></script>
 
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/assign3/static/js/bootstrap.min.js"></script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -34,8 +37,63 @@
     <![endif]-->
 
 </head>
+<script>
+    
+    $(document).ready(function(){
+        
+        $(".submit").click(function(){
+            var username1 = $(".username").val();
+            var content1 = $(".content").val();
+            $.ajaxSetup({
+                    headers: { "X-CSRFToken": getCookie("csrftoken") }
+                });
+            $.ajax({
+                type : "POST",
+                data : { user: username1, comment: content1, project_id: {{project_id}} },
+                url : "/assign3/forAjax/",
+                dataType:'json',
+                success: function(data){
+                    alert("AJAX success");
+                    $(".forAjax").append(JSON.stringify(data))
+                    },
+                error:function(data)
+                    {
+                        alert("AJAX error!");
+                    }
 
+                });
+            });
+
+        $(".file").click(function(){
+            var path = $(this).attr("id");
+            $(this).css({"background-color": "Lavender" , "width":"1300px", "height":"400px", "overflow":"scroll"});
+            //alert("fileAJAX error!");
+            $(this).html('<object data="https://subversion.ews.illinois.edu/svn/sp16-cs242/jzhao18/' + path + '" width="600px" height="600px" />');
+
+            });
+
+            function getCookie(c_name)
+            {
+                if (document.cookie.length > 0)
+                {
+                    c_start = document.cookie.indexOf(c_name + "=");
+                    if (c_start != -1)
+                    {
+                        c_start = c_start + c_name.length + 1;
+                        c_end = document.cookie.indexOf(";", c_start);
+                        if (c_end == -1) c_end = document.cookie.length;
+                        return unescape(document.cookie.substring(c_start,c_end));
+                    }
+                }
+                return "";
+             }
+    })
+
+    
+
+</script>
 <body>
+    
 
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
@@ -102,9 +160,11 @@
 
         {% for file in files %}
                 <div class="file_container" id="{{ file.id }}">
+                <p>________________________________________________________</p>
                 <p>File Path: {{ file.file_path }}</p>
                 <p>File Type: {{ file.file_type }}</p>
                 <p>File Size: {{ file.file_size }}</p>
+                <div class="file" id="{{ file.file_path}}">Details</div>
                 {% for version in file.version_set.all %}
                     <div class="version_container" id="{{ version.id }}">
                     <p>Version Revision: {{ version.version_revision }}</p>
@@ -114,6 +174,7 @@
                     <br>
                     <br>
                 </div>
+                
                 {% endfor %}
          </div>
         {% endfor %}
@@ -125,24 +186,23 @@
        <h3>Comment List </h3>
         <div class="content-section-b">
 
-            <form  action="/assign3/project/{{project_id}}" method="post">
-                {% csrf_token %}
-                    <table>
-                        <tr>
-                            <td> <label for="username">Username:</label> </td>
-                            <td> <input type="text" name="username"  /> </td>
-                        </tr>
-                        <br></br>
-                        <tr>
-                            <td> <label for="content">Comment:</label> </td>
-                           
-                            <td> 
-                                <textarea id="content" rows="6" cols="48" name="content">{{content}}</textarea> 
-                            </td>
-                        </tr>                        
-                    </table>
-                    <input type="submit" value="Comment" />
-            </form>
+            
+            <table>
+                <tr>
+                    <td> <label  for="username">Username:</label> </td>
+                    <td> <input class="username" type="text" name="username"  /> </td>
+                </tr>
+                <br></br>
+                <tr>
+                    <td> <label for="content">Comment:</label> </td>
+                   
+                    <td> 
+                        <textarea class="content" id="content" rows="6" cols="48" name="content">{{content}}</textarea> 
+                    </td>
+                </tr>                        
+            </table>
+            <input class="submit" type="submit" value="Comment" />
+            
             {% for comment in comments %}
             <div class="comment_user_container">
                 <p>User :    {{comment.comment_username}}<p>
@@ -154,6 +214,9 @@
                 <p>No comments here yet :(</p>
             {% endfor %}
 
+            <div class ="forAjax"> 
+                New Comments: 
+            </div>
         </div>
         <!-- /.container -->
 
@@ -183,11 +246,35 @@
 
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    
 
 </body>
 
 </html>
+
+<!--
+
+$(".file").click(function(){
+            //var fileId = $(this).attr("id");
+            alert("fileAJAX error!");
+            $.ajaxSetup({
+                    headers: { "X-CSRFToken": getCookie("csrftoken") }
+                });
+            $.ajax({
+                type : "POST",
+                data : { file_path: {{ file.file_path }} },
+                url : "/assign3/forFile/",
+                //dataType:'json',
+                success: function(data){
+                    alert("AJAX success");
+                    $(".forFile").append(data)
+                    },
+                error:function(data)
+                    {
+                        alert("AJAX error!");
+                    }
+
+                });
+            })
+-->
+
